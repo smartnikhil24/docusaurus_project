@@ -56,7 +56,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/smartnikhil24/docusaurus_like',
+            href: 'https://github.com/smartnikhil24/docusaurus_project',
             label: 'GitHub',
             position: 'right',
           },
